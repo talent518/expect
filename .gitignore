@@ -16,7 +16,6 @@ config.status
 config.sub
 configure
 configure.ac
-expect.php
 include
 install-sh
 libtool
